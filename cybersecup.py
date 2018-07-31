@@ -4,7 +4,6 @@ import socket
 from googlesearch import search
 import vulners
 import json
-from bs4 import BeautifulSoup
 import time
 import socket
 import base64
